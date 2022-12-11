@@ -20,6 +20,10 @@ I have good social skills, I am an excellent team worker, so I always try to com
 
     cout << "Hello world";
 
+## Education
+
+University: BSUIR
+
 ## Languages
 
 * Russian (Native)
