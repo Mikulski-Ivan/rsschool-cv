@@ -9,6 +9,7 @@
 ## About Me
 
 I have good social skills, I am an excellent team worker, so I always try to complete the task as efficiently as possible.
+Age - 18.
 
 ## Skills
 
